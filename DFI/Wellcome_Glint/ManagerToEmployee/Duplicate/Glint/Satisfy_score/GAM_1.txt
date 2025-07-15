@@ -1,0 +1,49 @@
+
+Family: gaussian 
+Link function: log 
+
+Formula:
+Satisfy_score ~ s(avg_score_Q7) + s(avg_score_Q8) + s(avg_score_Q9) + 
+    s(avg_score_Q10) + s(avg_score_Q11) + s(avg_score_Q12) + 
+    s(avg_score_Q15) + s(avg_score_Q16) + s(avg_score_Q17) + 
+    s(avg_score_Q18) + s(avg_score_Q19) + s(avg_score_Q20) + 
+    s(avg_score_Q21) + s(avg_score_Q22) + s(avg_score_Q23) + 
+    s(avg_score_Q24) + s(avg_score_Q25) + s(avg_score_Q26) + 
+    s(avg_score_Q27) + s(avg_score_Q28) + s(avg_score_Q29) + 
+    s(avg_score_Q30)
+
+Parametric coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 4.175706   0.002828    1477   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+                   edf Ref.df     F p-value   
+s(avg_score_Q7)  1.000  1.000 0.940 0.33316   
+s(avg_score_Q8)  1.000  1.000 3.115 0.07872 . 
+s(avg_score_Q9)  1.000  1.000 1.921 0.16687   
+s(avg_score_Q10) 1.824  2.361 1.100 0.26952   
+s(avg_score_Q11) 4.094  5.170 1.693 0.13163   
+s(avg_score_Q12) 8.213  8.656 2.585 0.00538 **
+s(avg_score_Q15) 1.000  1.000 0.189 0.66451   
+s(avg_score_Q16) 1.000  1.000 6.090 0.01422 * 
+s(avg_score_Q17) 1.000  1.000 1.230 0.26835   
+s(avg_score_Q18) 1.000  1.000 0.106 0.74444   
+s(avg_score_Q19) 1.159  1.289 0.057 0.94956   
+s(avg_score_Q20) 7.964  8.499 3.029 0.01275 * 
+s(avg_score_Q21) 1.000  1.000 0.116 0.73406   
+s(avg_score_Q22) 1.000  1.000 2.720 0.10028   
+s(avg_score_Q23) 1.000  1.000 1.774 0.18399   
+s(avg_score_Q24) 1.000  1.000 1.005 0.31690   
+s(avg_score_Q25) 1.000  1.000 3.194 0.07504 . 
+s(avg_score_Q26) 1.000  1.000 4.751 0.03015 * 
+s(avg_score_Q27) 3.771  4.716 1.993 0.05939 . 
+s(avg_score_Q28) 1.000  1.000 3.169 0.07621 . 
+s(avg_score_Q29) 2.328  3.054 4.108 0.00731 **
+s(avg_score_Q30) 2.632  3.431 0.889 0.44128   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =  0.907   Deviance explained = 92.1%
+GCV = 11.978  Scale est. = 10.197    n = 316

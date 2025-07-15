@@ -1,0 +1,49 @@
+
+Family: gaussian 
+Link function: log 
+
+Formula:
+avg_score_Q2 ~ s(avg_score_Q7) + s(avg_score_Q8) + s(avg_score_Q9) + 
+    s(avg_score_Q10) + s(avg_score_Q11) + s(avg_score_Q12) + 
+    s(avg_score_Q15) + s(avg_score_Q16) + s(avg_score_Q17) + 
+    s(avg_score_Q18) + s(avg_score_Q19) + s(avg_score_Q20) + 
+    s(avg_score_Q21) + s(avg_score_Q22) + s(avg_score_Q23) + 
+    s(avg_score_Q24) + s(avg_score_Q25) + s(avg_score_Q26) + 
+    s(avg_score_Q27) + s(avg_score_Q28) + s(avg_score_Q29) + 
+    s(avg_score_Q30)
+
+Parametric coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 4.191702   0.002964    1414   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+                   edf Ref.df     F p-value   
+s(avg_score_Q7)  3.570  4.496 3.904 0.00303 **
+s(avg_score_Q8)  1.000  1.000 0.985 0.32191   
+s(avg_score_Q9)  1.000  1.000 1.615 0.20483   
+s(avg_score_Q10) 3.919  4.933 1.075 0.39416   
+s(avg_score_Q11) 2.885  3.711 0.650 0.64192   
+s(avg_score_Q12) 2.137  2.791 1.281 0.27570   
+s(avg_score_Q15) 2.382  3.112 1.896 0.14071   
+s(avg_score_Q16) 1.000  1.000 4.442 0.03596 * 
+s(avg_score_Q17) 2.582  3.334 4.069 0.00550 **
+s(avg_score_Q18) 1.000  1.000 0.543 0.46187   
+s(avg_score_Q19) 6.873  7.893 1.784 0.08029 . 
+s(avg_score_Q20) 1.000  1.000 0.417 0.51895   
+s(avg_score_Q21) 1.000  1.000 5.497 0.01976 * 
+s(avg_score_Q22) 1.000  1.000 0.915 0.33955   
+s(avg_score_Q23) 1.000  1.000 6.312 0.01256 * 
+s(avg_score_Q24) 1.000  1.000 0.741 0.39020   
+s(avg_score_Q25) 1.000  1.000 0.000 0.98429   
+s(avg_score_Q26) 1.000  1.000 0.052 0.81968   
+s(avg_score_Q27) 1.000  1.000 0.293 0.58889   
+s(avg_score_Q28) 1.001  1.001 0.126 0.72393   
+s(avg_score_Q29) 1.000  1.000 8.032 0.00494 **
+s(avg_score_Q30) 1.000  1.000 4.437 0.03606 * 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =  0.892   Deviance explained = 90.5%
+GCV = 13.317  Scale est. = 11.617    n = 316

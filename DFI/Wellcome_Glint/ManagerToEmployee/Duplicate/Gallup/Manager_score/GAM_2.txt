@@ -1,0 +1,27 @@
+
+Family: gaussian 
+Link function: log 
+
+Formula:
+Manager_score ~ s(avg_score_Q10) + s(avg_score_Q17) + s(avg_score_Q18) + 
+    s(avg_score_Q22) + s(avg_score_Q24) + s(avg_score_Q29)
+
+Parametric coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 4.251660   0.003178    1338   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+                   edf Ref.df      F p-value    
+s(avg_score_Q10) 1.000  1.000  0.004  0.9521    
+s(avg_score_Q17) 3.654  4.631 70.603  <2e-16 ***
+s(avg_score_Q18) 1.954  2.524  1.239  0.2998    
+s(avg_score_Q22) 1.470  1.798  1.528  0.3280    
+s(avg_score_Q24) 4.804  5.893  1.429  0.2032    
+s(avg_score_Q29) 1.000  1.000  3.014  0.0836 .  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =   0.88   Deviance explained = 88.5%
+GCV = 15.779  Scale est. = 15.036    n = 316

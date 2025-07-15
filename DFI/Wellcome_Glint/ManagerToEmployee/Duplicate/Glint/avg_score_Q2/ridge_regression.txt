@@ -1,0 +1,26 @@
+24 x 1 sparse Matrix of class "dgCMatrix"
+                       s1
+(Intercept)   66.84177215
+(Intercept)    .         
+avg_score_Q7   0.69212040
+avg_score_Q8  -0.23876657
+avg_score_Q9   0.55315388
+avg_score_Q10  0.07131439
+avg_score_Q11  0.37242870
+avg_score_Q12 -0.12476694
+avg_score_Q15  0.98479006
+avg_score_Q16  1.00864388
+avg_score_Q17 -0.56728389
+avg_score_Q18  0.32195998
+avg_score_Q19 -0.05105886
+avg_score_Q20  0.64617650
+avg_score_Q21  0.72805772
+avg_score_Q22 -0.07965005
+avg_score_Q23  1.25087256
+avg_score_Q24  0.74337478
+avg_score_Q25  0.19039250
+avg_score_Q26  0.43137508
+avg_score_Q27  0.37176185
+avg_score_Q28  0.31133714
+avg_score_Q29  1.29425717
+avg_score_Q30  1.23439713

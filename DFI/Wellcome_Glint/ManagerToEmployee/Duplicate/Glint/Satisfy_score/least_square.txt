@@ -1,0 +1,45 @@
+
+Call:
+lm(formula = target ~ avg_score_Q7 + avg_score_Q8 + avg_score_Q9 + 
+    avg_score_Q10 + avg_score_Q11 + avg_score_Q12 + avg_score_Q15 + 
+    avg_score_Q16 + avg_score_Q17 + avg_score_Q18 + avg_score_Q19 + 
+    avg_score_Q20 + avg_score_Q21 + avg_score_Q22 + avg_score_Q23 + 
+    avg_score_Q24 + avg_score_Q25 + avg_score_Q26 + avg_score_Q27 + 
+    avg_score_Q28 + avg_score_Q29 + avg_score_Q30, data = data_combined)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-12.7050  -1.9060   0.2704   2.1249   8.7443 
+
+Coefficients:
+               Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   65.832278   0.193355 340.473  < 2e-16 ***
+avg_score_Q7   0.463449   0.598758   0.774 0.439544    
+avg_score_Q8   0.903878   0.617117   1.465 0.144080    
+avg_score_Q9   0.394989   0.842031   0.469 0.639354    
+avg_score_Q10 -1.224683   0.758352  -1.615 0.107403    
+avg_score_Q11  0.780328   0.653874   1.193 0.233681    
+avg_score_Q12  0.497843   0.562465   0.885 0.376824    
+avg_score_Q15 -0.008231   0.678328  -0.012 0.990327    
+avg_score_Q16  1.721909   0.739866   2.327 0.020629 *  
+avg_score_Q17 -0.967293   0.679842  -1.423 0.155852    
+avg_score_Q18 -0.198799   0.813778  -0.244 0.807176    
+avg_score_Q19  0.843131   0.676106   1.247 0.213379    
+avg_score_Q20  0.112237   0.664609   0.169 0.866010    
+avg_score_Q21  0.358746   0.729388   0.492 0.623197    
+avg_score_Q22  0.820452   0.617097   1.330 0.184706    
+avg_score_Q23  1.257107   0.739778   1.699 0.090323 .  
+avg_score_Q24 -0.544341   0.654173  -0.832 0.406027    
+avg_score_Q25 -1.344179   0.721410  -1.863 0.063425 .  
+avg_score_Q26  1.223024   0.715693   1.709 0.088535 .  
+avg_score_Q27  1.211188   0.677061   1.789 0.074665 .  
+avg_score_Q28  1.240436   0.587067   2.113 0.035452 *  
+avg_score_Q29  2.339008   0.646076   3.620 0.000347 ***
+avg_score_Q30  0.573412   0.653371   0.878 0.380868    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.437 on 293 degrees of freedom
+Multiple R-squared:  0.8998,	Adjusted R-squared:  0.8923 
+F-statistic: 119.7 on 22 and 293 DF,  p-value: < 2.2e-16
+

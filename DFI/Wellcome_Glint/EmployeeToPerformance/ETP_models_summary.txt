@@ -1,0 +1,90 @@
+
+===========================================================================================================
+                                                                            Productivity_sum  SOP...T.Area)
+-----------------------------------------------------------------------------------------------------------
+(Intercept)                                                                   10441.54 ***      2609.75 ***
+                                                                               (350.30)          (93.88)   
+X2023.Turnover                                                                   -7.35 ***        -0.41    
+                                                                                 (1.02)           (0.27)   
+MSP_sum                                                                          12.01 ***        -1.66 ***
+                                                                                 (0.67)           (0.18)   
+workload                                                                        -15.82 ***        -1.85 ***
+                                                                                 (0.26)           (0.07)   
+shrinkage.....of.Sales                                                         -168.92 ***       -94.39 ***
+                                                                                (29.35)           (7.87)   
+scaleUpscales                                                                111150.06 ***     11185.63    
+                                                                             (25358.27)        (6795.91)   
+clusterOffice - High Income (Upscale)                                        -95480.44 ***    -12315.95 *  
+                                                                             (20484.16)        (5489.67)   
+clusterOffice - Local (Wellcome)                                             151997.34        185662.87 ***
+                                                                             (83575.11)       (22397.79)   
+clusterResidential - High Income (Wellcome)                                    -978.77          1467.55 ***
+                                                                               (727.67)         (195.01)   
+clusterResidential - Western & Top Income (Upscale)                         -106407.32 ***    -10543.64    
+                                                                             (25192.26)        (6751.42)   
+clusterTourist Border(Wellcome)                                                2603.51 **       -158.84    
+                                                                               (793.70)         (212.71)   
+clusterUrban Hub - High Income (Upscale)                                    -120316.98 ***    -12024.75    
+                                                                             (25512.48)        (6837.24)   
+clusterUrban Hub - Local (Wellcome)                                           -3034.87 ***      -572.90 ** 
+                                                                               (782.02)         (209.58)   
+X2023.Turnover:scaleUpscales                                                    117.98 ***        31.01 ***
+                                                                                (13.62)           (3.65)   
+X2023.Turnover:clusterOffice - High Income (Upscale)                           -344.66 ***         7.62    
+                                                                                (83.97)          (22.50)   
+X2023.Turnover:clusterOffice - Local (Wellcome)                                  51.76 *          45.89 ***
+                                                                                (21.27)           (5.70)   
+X2023.Turnover:clusterResidential - High Income (Wellcome)                       -8.08 **          3.37 ***
+                                                                                 (2.97)           (0.80)   
+X2023.Turnover:clusterResidential - Western & Top Income (Upscale)              -94.84 ***       -25.96 ***
+                                                                                (13.93)           (3.73)   
+X2023.Turnover:clusterUrban Hub - High Income (Upscale)                        -127.32 ***       -25.50 ***
+                                                                                (13.69)           (3.67)   
+X2023.Turnover:clusterUrban Hub - Local (Wellcome)                              -11.33 ***         0.98    
+                                                                                 (2.11)           (0.57)   
+MSP_sum:scaleUpscales                                                          -233.40 ***       -23.75    
+                                                                                (54.90)          (14.71)   
+MSP_sum:clusterOffice - High Income (Upscale)                                   224.80 ***        25.04    
+                                                                                (52.58)          (14.09)   
+MSP_sum:clusterOffice - Local (Wellcome)                                       -277.51          -321.07 ***
+                                                                               (145.52)          (39.00)   
+MSP_sum:clusterResidential - High Income (Wellcome)                               2.70 *          -1.44 ***
+                                                                                 (1.28)           (0.34)   
+MSP_sum:clusterResidential - Western & Top Income (Upscale)                     226.18 ***        23.95    
+                                                                                (54.70)          (14.66)   
+MSP_sum:clusterUrban Hub - High Income (Upscale)                                248.51 ***        23.67    
+                                                                                (55.10)          (14.77)   
+MSP_sum:clusterUrban Hub - Local (Wellcome)                                      14.14 ***         0.45    
+                                                                                 (1.32)           (0.35)   
+workload:scaleUpscales                                                           34.27 **         -2.79    
+                                                                                (12.44)           (3.33)   
+workload:clusterOffice - High Income (Upscale)                                   -6.82            -0.99    
+                                                                                 (6.82)           (1.83)   
+workload:clusterOffice - Local (Wellcome)                                       -56.95           -83.31 ***
+                                                                                (37.46)          (10.04)   
+workload:clusterResidential - High Income (Wellcome)                             -2.17 ***        -0.68 ***
+                                                                                 (0.50)           (0.13)   
+workload:clusterResidential - Western & Top Income (Upscale)                    -37.74 **          0.69    
+                                                                                (12.48)           (3.34)   
+workload:clusterUrban Hub - High Income (Upscale)                               -35.81 **          4.21    
+                                                                                (12.44)           (3.33)   
+workload:clusterUrban Hub - Local (Wellcome)                                    -11.43 ***         0.34    
+                                                                                 (0.71)           (0.19)   
+shrinkage.....of.Sales:scaleUpscales                                          -7757.15 ***        19.39    
+                                                                              (1912.07)         (512.43)   
+shrinkage.....of.Sales:clusterOffice - Local (Wellcome)                         256.20          -817.91 ***
+                                                                               (336.04)          (90.06)   
+shrinkage.....of.Sales:clusterResidential - High Income (Wellcome)              253.03 ***      -111.38 ***
+                                                                                (74.60)          (19.99)   
+shrinkage.....of.Sales:clusterResidential - Western & Top Income (Upscale)     7425.17 ***       166.08    
+                                                                              (1916.64)         (513.65)   
+shrinkage.....of.Sales:clusterUrban Hub - High Income (Upscale)                8356.95 ***      -105.02    
+                                                                              (1914.61)         (513.11)   
+shrinkage.....of.Sales:clusterUrban Hub - Local (Wellcome)                      841.92 ***        79.20 ** 
+                                                                                (90.08)          (24.14)   
+-----------------------------------------------------------------------------------------------------------
+R^2                                                                               0.65             0.36    
+Adj. R^2                                                                          0.65             0.36    
+Num. obs.                                                                      6437             6437       
+===========================================================================================================
+*** p < 0.001; ** p < 0.01; * p < 0.05

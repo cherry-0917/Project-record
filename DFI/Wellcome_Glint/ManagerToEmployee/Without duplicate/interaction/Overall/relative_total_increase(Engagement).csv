@@ -1,0 +1,16 @@
+Target,Variable,Score,Increase,Predicted_score,,,,,75,,76,,77,,78,,79,,80,
+75,avg_score_Q11,78.48794489,4,75.04547222,,,NO.,Question Text,Score,+,Score,+,Score,+,Score,+,Score,+,Score,+
+76,avg_score_Q29,80.77956372,7,76.28097222,,avg_score_Q11,Q11,I see opportunities to develop my career at our company.,78.49,4,NA,NA,81.49,7,81.49,7,81.49,7,83,9
+77,avg_score_Q11,81.48794489,7,77.02122222,,avg_score_Q29,Q29,Our company is providing the technology resources I need to be productive.,NA,NA,80.78,7,79.78,6,83.78,10,84.78,11,87.78,14
+77,avg_score_Q29,79.77956372,6,77.02122222,,avg_score_Q18,Q18,I feel satisfied with the recognition or praise I receive for my work.,NA,NA,NA,NA,NA,NA,82.25,7,90.00,15,NA,NA
+78,avg_score_Q11,81.48794489,7,78.07408333,,avg_score_Q19,Q19,Our company delivers a great customer experience.,NA,NA,NA,NA,NA,NA,NA,NA,84.52,6,84.52,6
+78,avg_score_Q18,82.25411405,7,78.07408333,,avg_score_Q30,Q30,Our company does a good job supporting the communities in which it does business.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,86.71,11
+78,avg_score_Q29,83.77956372,10,78.07408333,,,,,,,,,,,,,,,,
+79,avg_score_Q11,81.48794489,7,79.00125,,,,,,,,,,,,,,,,
+79,avg_score_Q18,90,14.74588595,79.00125,,,,,,,,,,,,,,,,
+79,avg_score_Q19,84.52277076,6,79.00125,,,,,,,,,,,,,,,,
+79,avg_score_Q29,84.77956372,11,79.00125,,,,,,,,,,,,,,,,
+80,avg_score_Q11,83,8.512055109,80.00563889,,,,,,,,,,,,,,,,
+80,avg_score_Q19,84.52277076,6,80.00563889,,,,,,,,,,,,,,,,
+80,avg_score_Q29,87.77956372,14,80.00563889,,,,,,,,,,,,,,,,
+80,avg_score_Q30,86.70799847,11,80.00563889,,,,,,,,,,,,,,,,

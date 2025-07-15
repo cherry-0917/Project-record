@@ -1,0 +1,46 @@
+Response variable: target 
+Total response variance: 109.7676 
+Analysis based on 316 observations 
+
+7 Regressors: 
+avg_score_Q6 avg_score_Q11 avg_score_Q16 avg_score_Q22 avg_score_Q25 avg_score_Q27 avg_score_Q29 
+Proportion of variance explained by model: 91.21%
+Metrics are normalized to sum to 100% (rela=TRUE). 
+
+Relative importance metrics: 
+
+                    lmg
+avg_score_Q6  0.1379868
+avg_score_Q11 0.1448584
+avg_score_Q16 0.1371819
+avg_score_Q22 0.1377776
+avg_score_Q25 0.1418402
+avg_score_Q27 0.1283081
+avg_score_Q29 0.1720471
+
+Average coefficients for different model sizes: 
+
+                     1X       2Xs       3Xs
+avg_score_Q6  0.8695827 0.4057925 0.2844127
+avg_score_Q11 0.8603501 0.4792887 0.3348767
+avg_score_Q16 0.8960135 0.4530569 0.2900664
+avg_score_Q22 0.9316798 0.4672164 0.2961212
+avg_score_Q25 0.9277839 0.5194008 0.3438286
+avg_score_Q27 0.8501541 0.3495306 0.1722756
+avg_score_Q29 0.9234358 0.6384890 0.5306598
+                     4Xs        5Xs         6Xs
+avg_score_Q6  0.22275004 0.18208845 0.151380077
+avg_score_Q11 0.26031758 0.21484980 0.184606921
+avg_score_Q16 0.21079326 0.16610792 0.138536357
+avg_score_Q22 0.20507591 0.14773524 0.107905386
+avg_score_Q25 0.24829702 0.18932390 0.149455907
+avg_score_Q27 0.08489606 0.03463151 0.003234057
+avg_score_Q29 0.47354649 0.43748196 0.412367237
+                      7Xs
+avg_score_Q6   0.12628745
+avg_score_Q11  0.16350060
+avg_score_Q16  0.12044355
+avg_score_Q22  0.07848858
+avg_score_Q25  0.12073539
+avg_score_Q27 -0.01735504
+avg_score_Q29  0.39359175

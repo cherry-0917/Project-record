@@ -1,0 +1,13 @@
+        Variable Importance
+1  avg_score_Q23  0.0563600
+2  avg_score_Q29  0.0507500
+3  avg_score_Q30  0.0485800
+4  avg_score_Q15  0.0436100
+5  avg_score_Q16  0.0425300
+6  avg_score_Q21  0.0204200
+7   avg_score_Q7  0.0138500
+8   avg_score_Q9  0.0137300
+9  avg_score_Q24  0.0110800
+10 avg_score_Q20  0.0078670
+11 avg_score_Q26  0.0006647
+12           sum     0.3094

@@ -1,0 +1,24 @@
+
+Call:
+lm(formula = .outcome ~ ., data = dat)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-5.8462 -1.0707 -0.1277  1.6531  4.5953 
+
+Coefficients:
+                Estimate Std. Error t value Pr(>|t|)    
+(Intercept)    4.302e+00  5.744e+00   0.749 0.460100    
+avg_score_Q10  4.034e-01  1.470e-01   2.744 0.010476 *  
+avg_score_Q17 -2.493e-05  1.137e-01   0.000 0.999827    
+avg_score_Q18 -3.793e-02  1.346e-01  -0.282 0.780191    
+avg_score_Q22  8.593e-02  1.282e-01   0.671 0.508032    
+avg_score_Q24  6.211e-01  1.596e-01   3.891 0.000562 ***
+avg_score_Q29 -1.303e-01  9.851e-02  -1.323 0.196666    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2.52 on 28 degrees of freedom
+Multiple R-squared:  0.9275,	Adjusted R-squared:  0.912 
+F-statistic: 59.73 on 6 and 28 DF,  p-value: 1.15e-14
+

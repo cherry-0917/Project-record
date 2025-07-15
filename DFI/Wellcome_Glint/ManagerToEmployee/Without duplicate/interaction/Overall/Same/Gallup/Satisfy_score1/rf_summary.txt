@@ -1,0 +1,19 @@
+Random Forest Model Summary
+
+Call:
+ randomForest(formula = formula, data = train_data, ntree = 40,      mtry = max(floor(sqrt(length(variables)/3)), 1), importance = TRUE) 
+               Type of random forest: regression
+                     Number of trees: 40
+No. of variables tried at each split: 1
+
+          Mean of squared residuals: 11.68449
+                    % Var explained: 83.33
+
+Variable Importance:
+               %IncMSE IncNodePurity
+avg_score_Q10 3.112243      363.7601
+avg_score_Q17 2.419377      310.7499
+avg_score_Q18 3.767238      436.1349
+avg_score_Q22 2.980745      235.3483
+avg_score_Q24 2.981622      524.9883
+avg_score_Q29 4.202309      504.7760

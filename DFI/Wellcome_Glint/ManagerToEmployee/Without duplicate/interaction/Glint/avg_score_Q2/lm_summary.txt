@@ -1,0 +1,40 @@
+
+Call:
+lm(formula = .outcome ~ ., data = dat)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-12.3299  -2.1449   0.2091   1.9398   8.6977 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)    1.73659    2.00896   0.864 0.388390    
+avg_score_Q7   0.08697    0.06795   1.280 0.202060    
+avg_score_Q8  -0.12326    0.08390  -1.469 0.143390    
+avg_score_Q9   0.10298    0.10454   0.985 0.325765    
+avg_score_Q10  0.06323    0.09192   0.688 0.492305    
+avg_score_Q11  0.02707    0.07870   0.344 0.731272    
+avg_score_Q12 -0.11823    0.07130  -1.658 0.098856 .  
+avg_score_Q15  0.06506    0.08467   0.768 0.443131    
+avg_score_Q16  0.08398    0.08910   0.943 0.347041    
+avg_score_Q17 -0.08748    0.09028  -0.969 0.333734    
+avg_score_Q18 -0.09908    0.09939  -0.997 0.320048    
+avg_score_Q19 -0.04001    0.08863  -0.451 0.652204    
+avg_score_Q20  0.08240    0.08191   1.006 0.315635    
+avg_score_Q21  0.14292    0.09379   1.524 0.129130    
+avg_score_Q22 -0.10470    0.08571  -1.222 0.223307    
+avg_score_Q23  0.30345    0.09053   3.352 0.000959 ***
+avg_score_Q24  0.10419    0.08252   1.263 0.208197    
+avg_score_Q25  0.01233    0.09035   0.136 0.891605    
+avg_score_Q26  0.11785    0.08414   1.401 0.162859    
+avg_score_Q27 -0.02991    0.08354  -0.358 0.720739    
+avg_score_Q28  0.05380    0.07404   0.727 0.468340    
+avg_score_Q29  0.12945    0.07817   1.656 0.099296 .  
+avg_score_Q30  0.19798    0.08622   2.296 0.022695 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.561 on 200 degrees of freedom
+Multiple R-squared:  0.8956,	Adjusted R-squared:  0.8841 
+F-statistic: 77.96 on 22 and 200 DF,  p-value: < 2.2e-16
+

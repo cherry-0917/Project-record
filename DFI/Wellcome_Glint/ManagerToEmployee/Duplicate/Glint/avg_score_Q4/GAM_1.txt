@@ -1,0 +1,49 @@
+
+Family: gaussian 
+Link function: log 
+
+Formula:
+avg_score_Q4 ~ s(avg_score_Q7) + s(avg_score_Q8) + s(avg_score_Q9) + 
+    s(avg_score_Q10) + s(avg_score_Q11) + s(avg_score_Q12) + 
+    s(avg_score_Q15) + s(avg_score_Q16) + s(avg_score_Q17) + 
+    s(avg_score_Q18) + s(avg_score_Q19) + s(avg_score_Q20) + 
+    s(avg_score_Q21) + s(avg_score_Q22) + s(avg_score_Q23) + 
+    s(avg_score_Q24) + s(avg_score_Q25) + s(avg_score_Q26) + 
+    s(avg_score_Q27) + s(avg_score_Q28) + s(avg_score_Q29) + 
+    s(avg_score_Q30)
+
+Parametric coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 4.157953   0.002526    1646   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+                   edf Ref.df      F p-value    
+s(avg_score_Q7)  1.000  1.000  2.309 0.12977    
+s(avg_score_Q8)  1.801  2.311  0.410 0.65664    
+s(avg_score_Q9)  4.871  5.961  1.857 0.08439 .  
+s(avg_score_Q10) 1.000  1.000  0.613 0.43441    
+s(avg_score_Q11) 2.886  3.703  3.752 0.00594 ** 
+s(avg_score_Q12) 1.000  1.000  0.498 0.48081    
+s(avg_score_Q15) 3.057  3.925  1.403 0.22097    
+s(avg_score_Q16) 1.000  1.000  1.562 0.21249    
+s(avg_score_Q17) 1.000  1.000  0.404 0.52545    
+s(avg_score_Q18) 1.966  2.540  0.975 0.45245    
+s(avg_score_Q19) 1.000  1.000  1.119 0.29108    
+s(avg_score_Q20) 3.398  4.366  1.485 0.21869    
+s(avg_score_Q21) 1.000  1.000  3.369 0.06751 .  
+s(avg_score_Q22) 1.000  1.000  0.587 0.44426    
+s(avg_score_Q23) 1.000  1.000  4.903 0.02763 *  
+s(avg_score_Q24) 2.269  2.924  0.719 0.46814    
+s(avg_score_Q25) 3.482  4.423  1.342 0.25007    
+s(avg_score_Q26) 1.996  2.579  0.594 0.47840    
+s(avg_score_Q27) 1.000  1.000  0.567 0.45195    
+s(avg_score_Q28) 1.000  1.000  3.298 0.07044 .  
+s(avg_score_Q29) 1.000  1.000 35.072 < 2e-16 ***
+s(avg_score_Q30) 1.592  1.989  5.785 0.00377 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =  0.929   Deviance explained = 93.7%
+GCV = 8.9917  Scale est. = 7.8445    n = 316

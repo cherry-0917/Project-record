@@ -1,0 +1,416 @@
+
+Call:
+lm(formula = formula2, data = group1)
+
+Residuals:
+       Min         1Q     Median         3Q        Max 
+-3.676e-12  0.000e+00  0.000e+00  0.000e+00  5.018e-12 
+
+Coefficients: (53 not defined because of singularities)
+                                                                             Estimate
+(Intercept)                                                                -4.721e+00
+avg_score_Q1                                                               -1.898e-01
+avg_score_Q2                                                               -2.374e+01
+avg_score_Q3                                                                2.511e+01
+avg_score_Q4                                                                5.085e-01
+avg_score_Q5                                                               -2.304e+00
+avg_score_Q6                                                               -7.814e-02
+avg_score_Q7                                                               -6.754e+00
+avg_score_Q8                                                                1.384e+00
+avg_score_Q9                                                                3.470e+00
+avg_score_Q10                                                              -4.569e+00
+avg_score_Q11                                                               2.789e+00
+avg_score_Q12                                                               2.286e+00
+avg_score_Q15                                                              -6.621e-01
+avg_score_Q16                                                              -4.785e-03
+avg_score_Q17                                                               8.611e+00
+avg_score_Q18                                                              -1.801e+00
+avg_score_Q19                                                               3.574e-01
+avg_score_Q20                                                               5.555e+00
+avg_score_Q21                                                              -4.056e+00
+avg_score_Q22                                                              -2.766e+00
+avg_score_Q23                                                              -3.337e+00
+avg_score_Q24                                                              -9.125e-01
+avg_score_Q25                                                              -3.541e+00
+avg_score_Q26                                                               6.547e+00
+avg_score_Q27                                                              -3.609e+00
+avg_score_Q28                                                               4.379e+00
+avg_score_Q29                                                               5.511e+00
+avg_score_Q30                                                              -2.807e+00
+X2023.Turnover                                                              5.660e-01
+MSP_sum                                                                    -9.386e-01
+workload                                                                    3.075e-01
+shrinkage.....of.Sales                                                     -3.140e+00
+clusterResidential - Western & Top Income (Upscale)                         4.210e+00
+clusterUrban Hub - High Income (Upscale)                                    5.089e+00
+avg_score_Q1:clusterResidential - Western & Top Income (Upscale)           -7.553e+00
+avg_score_Q1:clusterUrban Hub - High Income (Upscale)                       5.877e+00
+avg_score_Q2:clusterResidential - Western & Top Income (Upscale)            2.754e+01
+avg_score_Q2:clusterUrban Hub - High Income (Upscale)                       2.322e+01
+avg_score_Q3:clusterResidential - Western & Top Income (Upscale)           -3.329e+01
+avg_score_Q3:clusterUrban Hub - High Income (Upscale)                      -3.489e+01
+avg_score_Q4:clusterResidential - Western & Top Income (Upscale)            3.564e-01
+avg_score_Q4:clusterUrban Hub - High Income (Upscale)                              NA
+avg_score_Q5:clusterResidential - Western & Top Income (Upscale)            3.945e+00
+avg_score_Q5:clusterUrban Hub - High Income (Upscale)                              NA
+avg_score_Q6:clusterResidential - Western & Top Income (Upscale)            3.134e+00
+avg_score_Q6:clusterUrban Hub - High Income (Upscale)                              NA
+avg_score_Q7:clusterResidential - Western & Top Income (Upscale)            1.242e+00
+avg_score_Q7:clusterUrban Hub - High Income (Upscale)                              NA
+avg_score_Q8:clusterResidential - Western & Top Income (Upscale)           -4.473e+00
+avg_score_Q8:clusterUrban Hub - High Income (Upscale)                              NA
+avg_score_Q9:clusterResidential - Western & Top Income (Upscale)                   NA
+avg_score_Q9:clusterUrban Hub - High Income (Upscale)                              NA
+avg_score_Q10:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q10:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q11:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q11:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q12:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q12:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q15:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q15:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q16:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q16:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q17:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q17:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q18:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q18:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q19:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q19:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q20:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q20:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q21:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q21:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q22:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q22:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q23:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q23:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q24:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q24:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q25:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q25:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q26:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q26:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q27:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q27:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q28:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q28:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q29:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q29:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q30:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q30:clusterUrban Hub - High Income (Upscale)                             NA
+X2023.Turnover:clusterResidential - Western & Top Income (Upscale)                 NA
+X2023.Turnover:clusterUrban Hub - High Income (Upscale)                            NA
+MSP_sum:clusterResidential - Western & Top Income (Upscale)                        NA
+MSP_sum:clusterUrban Hub - High Income (Upscale)                                   NA
+workload:clusterResidential - Western & Top Income (Upscale)                       NA
+workload:clusterUrban Hub - High Income (Upscale)                                  NA
+shrinkage.....of.Sales:clusterResidential - Western & Top Income (Upscale)         NA
+shrinkage.....of.Sales:clusterUrban Hub - High Income (Upscale)                    NA
+                                                                           Std. Error
+(Intercept)                                                                 4.417e-13
+avg_score_Q1                                                                8.846e-13
+avg_score_Q2                                                                8.771e-13
+avg_score_Q3                                                                1.361e-12
+avg_score_Q4                                                                3.373e-13
+avg_score_Q5                                                                1.720e-13
+avg_score_Q6                                                                4.528e-13
+avg_score_Q7                                                                2.108e-13
+avg_score_Q8                                                                3.416e-13
+avg_score_Q9                                                                1.361e-13
+avg_score_Q10                                                               2.958e-13
+avg_score_Q11                                                               2.318e-13
+avg_score_Q12                                                               1.241e-13
+avg_score_Q15                                                               9.589e-14
+avg_score_Q16                                                               3.612e-13
+avg_score_Q17                                                               2.674e-13
+avg_score_Q18                                                               1.444e-13
+avg_score_Q19                                                               9.927e-14
+avg_score_Q20                                                               3.810e-13
+avg_score_Q21                                                               2.228e-13
+avg_score_Q22                                                               2.045e-13
+avg_score_Q23                                                               2.613e-13
+avg_score_Q24                                                               1.440e-13
+avg_score_Q25                                                               2.460e-13
+avg_score_Q26                                                               2.304e-13
+avg_score_Q27                                                               2.198e-13
+avg_score_Q28                                                               2.591e-13
+avg_score_Q29                                                               3.121e-13
+avg_score_Q30                                                               1.452e-13
+X2023.Turnover                                                              6.782e-14
+MSP_sum                                                                     1.046e-13
+workload                                                                    6.315e-14
+shrinkage.....of.Sales                                                      9.930e-14
+clusterResidential - Western & Top Income (Upscale)                         3.960e-13
+clusterUrban Hub - High Income (Upscale)                                    4.898e-13
+avg_score_Q1:clusterResidential - Western & Top Income (Upscale)            5.334e-13
+avg_score_Q1:clusterUrban Hub - High Income (Upscale)                       8.168e-13
+avg_score_Q2:clusterResidential - Western & Top Income (Upscale)            1.136e-12
+avg_score_Q2:clusterUrban Hub - High Income (Upscale)                       1.012e-12
+avg_score_Q3:clusterResidential - Western & Top Income (Upscale)            1.922e-12
+avg_score_Q3:clusterUrban Hub - High Income (Upscale)                       1.635e-12
+avg_score_Q4:clusterResidential - Western & Top Income (Upscale)            1.886e-13
+avg_score_Q4:clusterUrban Hub - High Income (Upscale)                              NA
+avg_score_Q5:clusterResidential - Western & Top Income (Upscale)            2.292e-13
+avg_score_Q5:clusterUrban Hub - High Income (Upscale)                              NA
+avg_score_Q6:clusterResidential - Western & Top Income (Upscale)            4.223e-13
+avg_score_Q6:clusterUrban Hub - High Income (Upscale)                              NA
+avg_score_Q7:clusterResidential - Western & Top Income (Upscale)            1.353e-13
+avg_score_Q7:clusterUrban Hub - High Income (Upscale)                              NA
+avg_score_Q8:clusterResidential - Western & Top Income (Upscale)            2.384e-13
+avg_score_Q8:clusterUrban Hub - High Income (Upscale)                              NA
+avg_score_Q9:clusterResidential - Western & Top Income (Upscale)                   NA
+avg_score_Q9:clusterUrban Hub - High Income (Upscale)                              NA
+avg_score_Q10:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q10:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q11:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q11:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q12:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q12:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q15:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q15:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q16:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q16:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q17:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q17:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q18:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q18:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q19:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q19:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q20:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q20:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q21:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q21:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q22:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q22:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q23:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q23:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q24:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q24:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q25:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q25:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q26:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q26:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q27:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q27:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q28:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q28:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q29:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q29:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q30:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q30:clusterUrban Hub - High Income (Upscale)                             NA
+X2023.Turnover:clusterResidential - Western & Top Income (Upscale)                 NA
+X2023.Turnover:clusterUrban Hub - High Income (Upscale)                            NA
+MSP_sum:clusterResidential - Western & Top Income (Upscale)                        NA
+MSP_sum:clusterUrban Hub - High Income (Upscale)                                   NA
+workload:clusterResidential - Western & Top Income (Upscale)                       NA
+workload:clusterUrban Hub - High Income (Upscale)                                  NA
+shrinkage.....of.Sales:clusterResidential - Western & Top Income (Upscale)         NA
+shrinkage.....of.Sales:clusterUrban Hub - High Income (Upscale)                    NA
+                                                                              t value
+(Intercept)                                                                -1.069e+13
+avg_score_Q1                                                               -2.146e+11
+avg_score_Q2                                                               -2.707e+13
+avg_score_Q3                                                                1.845e+13
+avg_score_Q4                                                                1.507e+12
+avg_score_Q5                                                               -1.340e+13
+avg_score_Q6                                                               -1.726e+11
+avg_score_Q7                                                               -3.204e+13
+avg_score_Q8                                                                4.051e+12
+avg_score_Q9                                                                2.550e+13
+avg_score_Q10                                                              -1.545e+13
+avg_score_Q11                                                               1.203e+13
+avg_score_Q12                                                               1.842e+13
+avg_score_Q15                                                              -6.906e+12
+avg_score_Q16                                                              -1.325e+10
+avg_score_Q17                                                               3.220e+13
+avg_score_Q18                                                              -1.248e+13
+avg_score_Q19                                                               3.600e+12
+avg_score_Q20                                                               1.458e+13
+avg_score_Q21                                                              -1.821e+13
+avg_score_Q22                                                              -1.353e+13
+avg_score_Q23                                                              -1.277e+13
+avg_score_Q24                                                              -6.335e+12
+avg_score_Q25                                                              -1.440e+13
+avg_score_Q26                                                               2.841e+13
+avg_score_Q27                                                              -1.642e+13
+avg_score_Q28                                                               1.690e+13
+avg_score_Q29                                                               1.766e+13
+avg_score_Q30                                                              -1.934e+13
+X2023.Turnover                                                              8.346e+12
+MSP_sum                                                                    -8.972e+12
+workload                                                                    4.870e+12
+shrinkage.....of.Sales                                                     -3.163e+13
+clusterResidential - Western & Top Income (Upscale)                         1.063e+13
+clusterUrban Hub - High Income (Upscale)                                    1.039e+13
+avg_score_Q1:clusterResidential - Western & Top Income (Upscale)           -1.416e+13
+avg_score_Q1:clusterUrban Hub - High Income (Upscale)                       7.195e+12
+avg_score_Q2:clusterResidential - Western & Top Income (Upscale)            2.423e+13
+avg_score_Q2:clusterUrban Hub - High Income (Upscale)                       2.294e+13
+avg_score_Q3:clusterResidential - Western & Top Income (Upscale)           -1.732e+13
+avg_score_Q3:clusterUrban Hub - High Income (Upscale)                      -2.135e+13
+avg_score_Q4:clusterResidential - Western & Top Income (Upscale)            1.890e+12
+avg_score_Q4:clusterUrban Hub - High Income (Upscale)                              NA
+avg_score_Q5:clusterResidential - Western & Top Income (Upscale)            1.721e+13
+avg_score_Q5:clusterUrban Hub - High Income (Upscale)                              NA
+avg_score_Q6:clusterResidential - Western & Top Income (Upscale)            7.421e+12
+avg_score_Q6:clusterUrban Hub - High Income (Upscale)                              NA
+avg_score_Q7:clusterResidential - Western & Top Income (Upscale)            9.180e+12
+avg_score_Q7:clusterUrban Hub - High Income (Upscale)                              NA
+avg_score_Q8:clusterResidential - Western & Top Income (Upscale)           -1.876e+13
+avg_score_Q8:clusterUrban Hub - High Income (Upscale)                              NA
+avg_score_Q9:clusterResidential - Western & Top Income (Upscale)                   NA
+avg_score_Q9:clusterUrban Hub - High Income (Upscale)                              NA
+avg_score_Q10:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q10:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q11:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q11:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q12:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q12:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q15:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q15:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q16:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q16:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q17:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q17:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q18:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q18:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q19:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q19:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q20:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q20:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q21:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q21:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q22:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q22:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q23:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q23:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q24:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q24:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q25:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q25:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q26:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q26:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q27:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q27:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q28:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q28:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q29:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q29:clusterUrban Hub - High Income (Upscale)                             NA
+avg_score_Q30:clusterResidential - Western & Top Income (Upscale)                  NA
+avg_score_Q30:clusterUrban Hub - High Income (Upscale)                             NA
+X2023.Turnover:clusterResidential - Western & Top Income (Upscale)                 NA
+X2023.Turnover:clusterUrban Hub - High Income (Upscale)                            NA
+MSP_sum:clusterResidential - Western & Top Income (Upscale)                        NA
+MSP_sum:clusterUrban Hub - High Income (Upscale)                                   NA
+workload:clusterResidential - Western & Top Income (Upscale)                       NA
+workload:clusterUrban Hub - High Income (Upscale)                                  NA
+shrinkage.....of.Sales:clusterResidential - Western & Top Income (Upscale)         NA
+shrinkage.....of.Sales:clusterUrban Hub - High Income (Upscale)                    NA
+                                                                           Pr(>|t|)    
+(Intercept)                                                                  <2e-16 ***
+avg_score_Q1                                                                 <2e-16 ***
+avg_score_Q2                                                                 <2e-16 ***
+avg_score_Q3                                                                 <2e-16 ***
+avg_score_Q4                                                                 <2e-16 ***
+avg_score_Q5                                                                 <2e-16 ***
+avg_score_Q6                                                                 <2e-16 ***
+avg_score_Q7                                                                 <2e-16 ***
+avg_score_Q8                                                                 <2e-16 ***
+avg_score_Q9                                                                 <2e-16 ***
+avg_score_Q10                                                                <2e-16 ***
+avg_score_Q11                                                                <2e-16 ***
+avg_score_Q12                                                                <2e-16 ***
+avg_score_Q15                                                                <2e-16 ***
+avg_score_Q16                                                                <2e-16 ***
+avg_score_Q17                                                                <2e-16 ***
+avg_score_Q18                                                                <2e-16 ***
+avg_score_Q19                                                                <2e-16 ***
+avg_score_Q20                                                                <2e-16 ***
+avg_score_Q21                                                                <2e-16 ***
+avg_score_Q22                                                                <2e-16 ***
+avg_score_Q23                                                                <2e-16 ***
+avg_score_Q24                                                                <2e-16 ***
+avg_score_Q25                                                                <2e-16 ***
+avg_score_Q26                                                                <2e-16 ***
+avg_score_Q27                                                                <2e-16 ***
+avg_score_Q28                                                                <2e-16 ***
+avg_score_Q29                                                                <2e-16 ***
+avg_score_Q30                                                                <2e-16 ***
+X2023.Turnover                                                               <2e-16 ***
+MSP_sum                                                                      <2e-16 ***
+workload                                                                     <2e-16 ***
+shrinkage.....of.Sales                                                       <2e-16 ***
+clusterResidential - Western & Top Income (Upscale)                          <2e-16 ***
+clusterUrban Hub - High Income (Upscale)                                     <2e-16 ***
+avg_score_Q1:clusterResidential - Western & Top Income (Upscale)             <2e-16 ***
+avg_score_Q1:clusterUrban Hub - High Income (Upscale)                        <2e-16 ***
+avg_score_Q2:clusterResidential - Western & Top Income (Upscale)             <2e-16 ***
+avg_score_Q2:clusterUrban Hub - High Income (Upscale)                        <2e-16 ***
+avg_score_Q3:clusterResidential - Western & Top Income (Upscale)             <2e-16 ***
+avg_score_Q3:clusterUrban Hub - High Income (Upscale)                        <2e-16 ***
+avg_score_Q4:clusterResidential - Western & Top Income (Upscale)             <2e-16 ***
+avg_score_Q4:clusterUrban Hub - High Income (Upscale)                            NA    
+avg_score_Q5:clusterResidential - Western & Top Income (Upscale)             <2e-16 ***
+avg_score_Q5:clusterUrban Hub - High Income (Upscale)                            NA    
+avg_score_Q6:clusterResidential - Western & Top Income (Upscale)             <2e-16 ***
+avg_score_Q6:clusterUrban Hub - High Income (Upscale)                            NA    
+avg_score_Q7:clusterResidential - Western & Top Income (Upscale)             <2e-16 ***
+avg_score_Q7:clusterUrban Hub - High Income (Upscale)                            NA    
+avg_score_Q8:clusterResidential - Western & Top Income (Upscale)             <2e-16 ***
+avg_score_Q8:clusterUrban Hub - High Income (Upscale)                            NA    
+avg_score_Q9:clusterResidential - Western & Top Income (Upscale)                 NA    
+avg_score_Q9:clusterUrban Hub - High Income (Upscale)                            NA    
+avg_score_Q10:clusterResidential - Western & Top Income (Upscale)                NA    
+avg_score_Q10:clusterUrban Hub - High Income (Upscale)                           NA    
+avg_score_Q11:clusterResidential - Western & Top Income (Upscale)                NA    
+avg_score_Q11:clusterUrban Hub - High Income (Upscale)                           NA    
+avg_score_Q12:clusterResidential - Western & Top Income (Upscale)                NA    
+avg_score_Q12:clusterUrban Hub - High Income (Upscale)                           NA    
+avg_score_Q15:clusterResidential - Western & Top Income (Upscale)                NA    
+avg_score_Q15:clusterUrban Hub - High Income (Upscale)                           NA    
+avg_score_Q16:clusterResidential - Western & Top Income (Upscale)                NA    
+avg_score_Q16:clusterUrban Hub - High Income (Upscale)                           NA    
+avg_score_Q17:clusterResidential - Western & Top Income (Upscale)                NA    
+avg_score_Q17:clusterUrban Hub - High Income (Upscale)                           NA    
+avg_score_Q18:clusterResidential - Western & Top Income (Upscale)                NA    
+avg_score_Q18:clusterUrban Hub - High Income (Upscale)                           NA    
+avg_score_Q19:clusterResidential - Western & Top Income (Upscale)                NA    
+avg_score_Q19:clusterUrban Hub - High Income (Upscale)                           NA    
+avg_score_Q20:clusterResidential - Western & Top Income (Upscale)                NA    
+avg_score_Q20:clusterUrban Hub - High Income (Upscale)                           NA    
+avg_score_Q21:clusterResidential - Western & Top Income (Upscale)                NA    
+avg_score_Q21:clusterUrban Hub - High Income (Upscale)                           NA    
+avg_score_Q22:clusterResidential - Western & Top Income (Upscale)                NA    
+avg_score_Q22:clusterUrban Hub - High Income (Upscale)                           NA    
+avg_score_Q23:clusterResidential - Western & Top Income (Upscale)                NA    
+avg_score_Q23:clusterUrban Hub - High Income (Upscale)                           NA    
+avg_score_Q24:clusterResidential - Western & Top Income (Upscale)                NA    
+avg_score_Q24:clusterUrban Hub - High Income (Upscale)                           NA    
+avg_score_Q25:clusterResidential - Western & Top Income (Upscale)                NA    
+avg_score_Q25:clusterUrban Hub - High Income (Upscale)                           NA    
+avg_score_Q26:clusterResidential - Western & Top Income (Upscale)                NA    
+avg_score_Q26:clusterUrban Hub - High Income (Upscale)                           NA    
+avg_score_Q27:clusterResidential - Western & Top Income (Upscale)                NA    
+avg_score_Q27:clusterUrban Hub - High Income (Upscale)                           NA    
+avg_score_Q28:clusterResidential - Western & Top Income (Upscale)                NA    
+avg_score_Q28:clusterUrban Hub - High Income (Upscale)                           NA    
+avg_score_Q29:clusterResidential - Western & Top Income (Upscale)                NA    
+avg_score_Q29:clusterUrban Hub - High Income (Upscale)                           NA    
+avg_score_Q30:clusterResidential - Western & Top Income (Upscale)                NA    
+avg_score_Q30:clusterUrban Hub - High Income (Upscale)                           NA    
+X2023.Turnover:clusterResidential - Western & Top Income (Upscale)               NA    
+X2023.Turnover:clusterUrban Hub - High Income (Upscale)                          NA    
+MSP_sum:clusterResidential - Western & Top Income (Upscale)                      NA    
+MSP_sum:clusterUrban Hub - High Income (Upscale)                                 NA    
+workload:clusterResidential - Western & Top Income (Upscale)                     NA    
+workload:clusterUrban Hub - High Income (Upscale)                                NA    
+shrinkage.....of.Sales:clusterResidential - Western & Top Income (Upscale)       NA    
+shrinkage.....of.Sales:clusterUrban Hub - High Income (Upscale)                  NA    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2.403e-13 on 1094 degrees of freedom
+Multiple R-squared:      1,	Adjusted R-squared:      1 
+F-statistic: 4.395e+26 on 45 and 1094 DF,  p-value: < 2.2e-16
+

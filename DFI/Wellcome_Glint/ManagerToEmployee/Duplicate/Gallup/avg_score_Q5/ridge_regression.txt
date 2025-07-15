@@ -1,0 +1,10 @@
+8 x 1 sparse Matrix of class "dgCMatrix"
+                     s1
+(Intercept)   0.4474448
+(Intercept)   .        
+avg_score_Q10 0.1110847
+avg_score_Q17 0.1151185
+avg_score_Q18 0.1413781
+avg_score_Q22 0.1289571
+avg_score_Q24 0.1795110
+avg_score_Q29 0.3065675

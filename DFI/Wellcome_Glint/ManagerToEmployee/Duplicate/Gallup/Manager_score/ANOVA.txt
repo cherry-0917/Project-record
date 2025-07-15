@@ -1,0 +1,9 @@
+Analysis of Variance Table
+
+Model 1: target ~ avg_score_Q10 + avg_score_Q17 + avg_score_Q18 + avg_score_Q22 + 
+    avg_score_Q24 + avg_score_Q29
+Model 2: target ~ avg_score_Q10 + avg_score_Q17 + avg_score_Q18 + avg_score_Q22 + 
+    avg_score_Q24 + avg_score_Q29
+  Res.Df    RSS Df Sum of Sq Pr(>Chi)
+1    309 4786.3                      
+2    309 5062.8  0   -276.53         

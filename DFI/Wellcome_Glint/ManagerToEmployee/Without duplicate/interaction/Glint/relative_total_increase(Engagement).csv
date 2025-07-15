@@ -1,0 +1,13 @@
+Target,Variable,Question Text,Score,Increase,Predicted_score,,,,,Predicted score ~ 68,,Predicted score ~ 69,,Predicted score ~ 70,
+68,avg_score_Q16,My manager provides me with feedback that helps me improve my performance.,78.12460064,9,68.001875,,,Variable,Question Text,Score,Increase,Score,Increase,Score,Increase
+68,avg_score_Q23,"In my team, team members are held accountable for their work.",69.06709265,2,68.001875,,,avg_score_Q9,We consider the needs of our customers (internal and/or external) in everything we do.,75.04792332,8,75.04792332,8,75.04792332,8
+68,avg_score_Q9,We consider the needs of our customers (internal and/or external) in everything we do.,75.04792332,8,68.001875,,,avg_score_Q16,My manager provides me with feedback that helps me improve my performance.,78.12460064,9,78.12460064,9,78.12460064,9
+69,avg_score_Q16,My manager provides me with feedback that helps me improve my performance.,78.12460064,9,69.01354167,,,avg_score_Q23,"In my team, team members are held accountable for their work.",69.06709265,2,72.06709265,5,NA,NA
+69,avg_score_Q23,"In my team, team members are held accountable for their work.",72.06709265,5,69.01354167,,,avg_score_Q24,I feel free to speak my mind without fear of negative consequences.,NA,NA,NA,NA,72.69968051,6
+69,avg_score_Q30,I am asked for my opinion on ways we can improve.,81.03833866,14,69.01354167,,,avg_score_Q29,I feel satisfied with the recognition or praise I receive for my work.,NA,NA,NA,NA,82.54313099,18
+69,avg_score_Q9,We consider the needs of our customers (internal and/or external) in everything we do.,75.04792332,8,69.01354167,,,avg_score_Q30,I am asked for my opinion on ways we can improve.,NA,NA,81.03833866,14,83.03833866,16
+70,avg_score_Q16,My manager provides me with feedback that helps me improve my performance.,78.12460064,9,70.029375,,,,,,,,,,
+70,avg_score_Q24,I feel free to speak my mind without fear of negative consequences.,72.69968051,6,70.029375,,,,,,,,,,
+70,avg_score_Q29,I feel satisfied with the recognition or praise I receive for my work.,82.54313099,18,70.029375,,,,,,,,,,
+70,avg_score_Q30,I am asked for my opinion on ways we can improve.,83.03833866,16,70.029375,,,,,,,,,,
+70,avg_score_Q9,We consider the needs of our customers (internal and/or external) in everything we do.,75.04792332,8,70.029375,,,,,,,,,,

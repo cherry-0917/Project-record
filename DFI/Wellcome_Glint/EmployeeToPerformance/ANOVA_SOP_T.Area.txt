@@ -1,0 +1,32 @@
+Analysis of Variance Table
+
+Model 1: SOP...T.Area ~ X2023.Turnover + Satisfy_score1 + Manager_score + 
+    Belonging_score + avg_score_Q4 + avg_score_Q25 + MSP_sum + 
+    workload + shrinkage.....of.Sales
+Model 2: SOP...T.Area ~ X2023.Turnover + Satisfy_score2 + avg_score_Q2 + 
+    avg_score_Q4 + avg_score_Q5 + avg_score_Q6 + avg_score_Q25 + 
+    MSP_sum + workload + shrinkage.....of.Sales
+Model 3: SOP...T.Area ~ avg_score_Q1 + avg_score_Q2 + avg_score_Q3 + avg_score_Q4 + 
+    avg_score_Q5 + avg_score_Q6 + avg_score_Q7 + avg_score_Q8 + 
+    avg_score_Q9 + avg_score_Q10 + avg_score_Q11 + avg_score_Q12 + 
+    avg_score_Q15 + avg_score_Q16 + avg_score_Q17 + avg_score_Q18 + 
+    avg_score_Q19 + avg_score_Q20 + avg_score_Q21 + avg_score_Q22 + 
+    avg_score_Q23 + avg_score_Q24 + avg_score_Q25 + avg_score_Q26 + 
+    avg_score_Q27 + avg_score_Q28 + avg_score_Q29 + avg_score_Q30 + 
+    X2023.Turnover + MSP_sum + workload + shrinkage.....of.Sales
+  Res.Df    RSS Df Sum of Sq      F    Pr(>F)    
+1   6427 4634.2                                  
+2   6426 4680.6  1    -46.42                     
+3   6404 4248.5 22    432.03 29.601 < 2.2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Call:
+ randomForest(formula = formula, data = train_data, ntree = round(nrow(train_data)/6,      -1), mtry = max(floor(sqrt(length(variables)/3)), 1), importance = TRUE) 
+               Type of random forest: regression
+                     Number of trees: 750
+No. of variables tried at each split: 3
+
+          Mean of squared residuals: 5.634805e-07
+                    % Var explained: 99.99
+[1] 2

@@ -1,0 +1,48 @@
+
+Family: gaussian 
+Link function: log 
+
+Formula:
+avg_score_Q4 ~ s(avg_score_Q8) + s(avg_score_Q9) + s(avg_score_Q11) + 
+    s(avg_score_Q15) + s(avg_score_Q18) + s(avg_score_Q20) + 
+    s(avg_score_Q24) + s(avg_score_Q25) + s(avg_score_Q26) + 
+    s(avg_score_Q30) + avg_score_Q7 + avg_score_Q10 + avg_score_Q12 + 
+    avg_score_Q16 + avg_score_Q17 + avg_score_Q19 + avg_score_Q21 + 
+    avg_score_Q22 + avg_score_Q23 + avg_score_Q27 + avg_score_Q28 + 
+    avg_score_Q29
+
+Parametric coefficients:
+               Estimate Std. Error  t value Pr(>|t|)    
+(Intercept)    4.157953   0.002526 1646.317  < 2e-16 ***
+avg_score_Q7  -0.012017   0.007908   -1.520   0.1298    
+avg_score_Q10 -0.007977   0.010190   -0.783   0.4344    
+avg_score_Q12  0.005482   0.007765    0.706   0.4808    
+avg_score_Q16  0.012781   0.010227    1.250   0.2125    
+avg_score_Q17 -0.005788   0.009104   -0.636   0.5254    
+avg_score_Q19 -0.009510   0.008990   -1.058   0.2911    
+avg_score_Q21  0.017979   0.009795    1.836   0.0675 .  
+avg_score_Q22  0.006417   0.008376    0.766   0.4443    
+avg_score_Q23  0.022539   0.010179    2.214   0.0276 *  
+avg_score_Q27 -0.007078   0.009397   -0.753   0.4519    
+avg_score_Q28  0.015540   0.008557    1.816   0.0704 .  
+avg_score_Q29  0.051044   0.008619    5.922 9.43e-09 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+                   edf Ref.df     F p-value   
+s(avg_score_Q8)  1.801  2.311 0.410 0.65664   
+s(avg_score_Q9)  4.871  5.961 1.857 0.08439 . 
+s(avg_score_Q11) 2.886  3.703 3.752 0.00594 **
+s(avg_score_Q15) 3.057  3.925 1.403 0.22097   
+s(avg_score_Q18) 1.966  2.540 0.975 0.45245   
+s(avg_score_Q20) 3.398  4.366 1.485 0.21870   
+s(avg_score_Q24) 2.269  2.924 0.719 0.46814   
+s(avg_score_Q25) 3.482  4.423 1.342 0.25007   
+s(avg_score_Q26) 1.996  2.579 0.594 0.47840   
+s(avg_score_Q30) 1.592  1.989 5.785 0.00377 **
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =  0.929   Deviance explained = 93.7%
+GCV = 8.9917  Scale est. = 7.8445    n = 316

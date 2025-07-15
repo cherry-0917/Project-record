@@ -1,0 +1,45 @@
+
+Call:
+lm(formula = target ~ avg_score_Q7 + avg_score_Q8 + avg_score_Q9 + 
+    avg_score_Q10 + avg_score_Q11 + avg_score_Q12 + avg_score_Q15 + 
+    avg_score_Q16 + avg_score_Q17 + avg_score_Q18 + avg_score_Q19 + 
+    avg_score_Q20 + avg_score_Q21 + avg_score_Q22 + avg_score_Q23 + 
+    avg_score_Q24 + avg_score_Q25 + avg_score_Q26 + avg_score_Q27 + 
+    avg_score_Q28 + avg_score_Q29 + avg_score_Q30, data = data_combined)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-18.2158  -2.3444   0.2045   2.2076  16.0842 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   65.12342    0.23233 280.303  < 2e-16 ***
+avg_score_Q7   0.15029    0.71945   0.209  0.83467    
+avg_score_Q8   1.96378    0.74151   2.648  0.00853 ** 
+avg_score_Q9   0.90228    1.01177   0.892  0.37324    
+avg_score_Q10  0.17918    0.91122   0.197  0.84425    
+avg_score_Q11  1.87243    0.78568   2.383  0.01780 *  
+avg_score_Q12  0.22239    0.67585   0.329  0.74235    
+avg_score_Q15  0.39619    0.81506   0.486  0.62727    
+avg_score_Q16 -0.80249    0.88901  -0.903  0.36744    
+avg_score_Q17 -1.09951    0.81688  -1.346  0.17935    
+avg_score_Q18  2.17764    0.97782   2.227  0.02670 *  
+avg_score_Q19 -0.81948    0.81239  -1.009  0.31394    
+avg_score_Q20  0.94023    0.79858   1.177  0.24000    
+avg_score_Q21 -0.15736    0.87642  -0.180  0.85763    
+avg_score_Q22 -0.22760    0.74149  -0.307  0.75910    
+avg_score_Q23 -0.04873    0.88890  -0.055  0.95632    
+avg_score_Q24  1.47680    0.78604   1.879  0.06127 .  
+avg_score_Q25 -0.60997    0.86683  -0.704  0.48219    
+avg_score_Q26 -0.16621    0.85996  -0.193  0.84687    
+avg_score_Q27 -0.54390    0.81354  -0.669  0.50430    
+avg_score_Q28  1.14803    0.70541   1.627  0.10471    
+avg_score_Q29  2.08418    0.77631   2.685  0.00767 ** 
+avg_score_Q30  1.24269    0.78508   1.583  0.11453    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 4.13 on 293 degrees of freedom
+Multiple R-squared:  0.862,	Adjusted R-squared:  0.8516 
+F-statistic: 83.19 on 22 and 293 DF,  p-value: < 2.2e-16
+

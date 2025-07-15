@@ -1,0 +1,9 @@
+# A tibble: 6 × 3
+  Variable      Importance Sign 
+  <chr>              <dbl> <chr>
+1 avg_score_Q29      6.61  POS  
+2 avg_score_Q18      6.26  POS  
+3 avg_score_Q24      5.41  POS  
+4 avg_score_Q17      3.91  POS  
+5 avg_score_Q10      2.78  POS  
+6 avg_score_Q22      0.197 POS  

@@ -1,0 +1,159 @@
+"Sign","term","estimate_stars","reg1(SOP...T.Area)_estimate","reg1(SOP...T.Area)_stars","reg2(productivity_sum)_estimate","reg2(productivity_sum)_stars","reg3(X2023.Turnover)_estimate","reg3(X2023.Turnover)_stars","reg4(shrinkage.....of.Sales)_estimate","reg4(shrinkage.....of.Sales)_stars","reg5(MSP_sum)_estimate","reg5(MSP_sum)_stars"
+"Negative","avg_score_Q1+avg_score_Q1:scaleUpscales","-1736.817***",-1736.817,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q1+avg_score_Q1:clusterOffice - Local (Wellcome)","-78.604***",-78.604,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q2","-11.289***",-11.289,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q2+avg_score_Q2:clusterOffice - Local (Wellcome)","-890.889***",-890.889,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q2+avg_score_Q2:clusterResidential - High Income (Wellcome)","-76.434***",-76.434,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q3","-12.304***",-12.304,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q4+avg_score_Q4:clusterUrban Hub - Local (Wellcome)","-37.349***",-37.349,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q5","-12.021***",-12.021,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q5+avg_score_Q5:clusterResidential - Western & Top Income (Upscale)","-792.635***",-792.635,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q6+avg_score_Q6:clusterResidential - High Income (Wellcome)","-56.359***",-56.359,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q7","-28.687***",-28.687,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q8+avg_score_Q8:clusterResidential - High Income (Wellcome)","-135.939***",-135.939,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q10+avg_score_Q10:clusterResidential - Western & Top Income (Upscale)","-1101.305***",-1101.305,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q10+avg_score_Q10:clusterUrban Hub - Local (Wellcome)","-137.064***",-137.064,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q12","-14.929***",-14.929,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q15+avg_score_Q15:scaleUpscales","-366.767***",-366.767,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q15+avg_score_Q15:clusterResidential - High Income (Wellcome)","-67.727***",-67.727,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q16+avg_score_Q16:clusterResidential - Western & Top Income (Upscale)","-1428.076***",-1428.076,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q19","-22.409***",-22.409,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q19+avg_score_Q19:clusterUrban Hub - Local (Wellcome)","-98.129***",-98.129,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q20+avg_score_Q20:clusterResidential - Western & Top Income (Upscale)","-2190.026***",-2190.026,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q21+avg_score_Q21:clusterResidential - High Income (Wellcome)","-51.103***",-51.103,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q22","-19.817***",-19.817,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q23","-39.917***",-39.917,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q27","-11.26***",-11.26,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q28","-13.518***",-13.518,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q29","-17.575***",-17.575,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q29+avg_score_Q29:clusterResidential - High Income (Wellcome)","-63.359***",-63.359,"***",NA,NA,NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q2+avg_score_Q2:clusterResidential - High Income (Wellcome)","-159.122***",NA,NA,-159.122,"***",NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q2+avg_score_Q2:clusterUrban Hub - Local (Wellcome)","-273.512***",NA,NA,-273.512,"***",NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q3","-111.952***",NA,NA,-111.952,"***",NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q4+avg_score_Q4:clusterResidential - High Income (Wellcome)","-450.081***",NA,NA,-450.081,"***",NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q6","-85.877***",NA,NA,-85.877,"***",NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q7","-54.435***",NA,NA,-54.435,"***",NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q9","-101.072***",NA,NA,-101.072,"***",NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q10+avg_score_Q10:clusterResidential - High Income (Wellcome)","-282.984***",NA,NA,-282.984,"***",NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q12+avg_score_Q12:clusterResidential - High Income (Wellcome)","-179.066***",NA,NA,-179.066,"***",NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q12+avg_score_Q12:clusterUrban Hub - Local (Wellcome)","-567.36***",NA,NA,-567.36,"***",NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q16+avg_score_Q16:clusterResidential - High Income (Wellcome)","-278.925***",NA,NA,-278.925,"***",NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q19","-158.99***",NA,NA,-158.99,"***",NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q20+avg_score_Q20:clusterResidential - Western & Top Income (Upscale)","-6486.821***",NA,NA,-6486.821,"***",NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q20+avg_score_Q20:clusterUrban Hub - Local (Wellcome)","-479.761***",NA,NA,-479.761,"***",NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q21+avg_score_Q21:scaleUpscales","-1927.112***",NA,NA,-1927.112,"***",NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q22","-92.561***",NA,NA,-92.561,"***",NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q22+avg_score_Q22:scaleUpscales","-595.164***",NA,NA,-595.164,"***",NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q23","-232.072***",NA,NA,-232.072,"***",NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q24+avg_score_Q24:clusterUrban Hub - Local (Wellcome)","-503.436***",NA,NA,-503.436,"***",NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q26+avg_score_Q26:clusterResidential - High Income (Wellcome)","-73.995***",NA,NA,-73.995,"***",NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q26+avg_score_Q26:clusterUrban Hub - Local (Wellcome)","-263.621***",NA,NA,-263.621,"***",NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q28+avg_score_Q28:clusterResidential - High Income (Wellcome)","-158.722***",NA,NA,-158.722,"***",NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q30+avg_score_Q30:clusterResidential - High Income (Wellcome)","-458.805***",NA,NA,-458.805,"***",NA,NA,NA,NA,NA,NA
+"Negative","avg_score_Q1+avg_score_Q1:clusterOffice - Local (Wellcome)","-26.651***",NA,NA,NA,NA,-26.651,"***",NA,NA,NA,NA
+"Negative","avg_score_Q1+avg_score_Q1:clusterUrban Hub - Local (Wellcome)","-7.182***",NA,NA,NA,NA,-7.182,"***",NA,NA,NA,NA
+"Negative","avg_score_Q2","-0.906***",NA,NA,NA,NA,-0.906,"***",NA,NA,NA,NA
+"Negative","avg_score_Q2+avg_score_Q2:clusterUrban Hub - Local (Wellcome)","-3.928***",NA,NA,NA,NA,-3.928,"***",NA,NA,NA,NA
+"Negative","avg_score_Q4","-1.33***",NA,NA,NA,NA,-1.33,"***",NA,NA,NA,NA
+"Negative","avg_score_Q4+avg_score_Q4:clusterOffice - Local (Wellcome)","-58.23***",NA,NA,NA,NA,-58.23,"***",NA,NA,NA,NA
+"Negative","avg_score_Q6+avg_score_Q6:scaleUpscales","-10.642***",NA,NA,NA,NA,-10.642,"***",NA,NA,NA,NA
+"Negative","avg_score_Q6+avg_score_Q6:clusterResidential - High Income (Wellcome)","-0.184***",NA,NA,NA,NA,-0.184,"***",NA,NA,NA,NA
+"Negative","avg_score_Q6+avg_score_Q6:clusterUrban Hub - Local (Wellcome)","-7.176***",NA,NA,NA,NA,-7.176,"***",NA,NA,NA,NA
+"Negative","avg_score_Q7+avg_score_Q7:clusterResidential - High Income (Wellcome)","-1.922***",NA,NA,NA,NA,-1.922,"***",NA,NA,NA,NA
+"Negative","avg_score_Q9","-0.991***",NA,NA,NA,NA,-0.991,"***",NA,NA,NA,NA
+"Negative","avg_score_Q10+avg_score_Q10:clusterUrban Hub - Local (Wellcome)","-15.185***",NA,NA,NA,NA,-15.185,"***",NA,NA,NA,NA
+"Negative","avg_score_Q11+avg_score_Q11:clusterUrban Hub - Local (Wellcome)","-2.711***",NA,NA,NA,NA,-2.711,"***",NA,NA,NA,NA
+"Negative","avg_score_Q12","-1.292***",NA,NA,NA,NA,-1.292,"***",NA,NA,NA,NA
+"Negative","avg_score_Q15","-0.656***",NA,NA,NA,NA,-0.656,"***",NA,NA,NA,NA
+"Negative","avg_score_Q15+avg_score_Q15:clusterUrban Hub - Local (Wellcome)","-4.786***",NA,NA,NA,NA,-4.786,"***",NA,NA,NA,NA
+"Negative","avg_score_Q17+avg_score_Q17:clusterUrban Hub - Local (Wellcome)","-4.506***",NA,NA,NA,NA,-4.506,"***",NA,NA,NA,NA
+"Negative","avg_score_Q18+avg_score_Q18:clusterResidential - High Income (Wellcome)","-3.853***",NA,NA,NA,NA,-3.853,"***",NA,NA,NA,NA
+"Negative","avg_score_Q19","-1.562***",NA,NA,NA,NA,-1.562,"***",NA,NA,NA,NA
+"Negative","avg_score_Q19+avg_score_Q19:clusterUrban Hub - Local (Wellcome)","-8.304***",NA,NA,NA,NA,-8.304,"***",NA,NA,NA,NA
+"Negative","avg_score_Q22+avg_score_Q22:clusterUrban Hub - Local (Wellcome)","-2.558***",NA,NA,NA,NA,-2.558,"***",NA,NA,NA,NA
+"Negative","avg_score_Q24","-1.011***",NA,NA,NA,NA,-1.011,"***",NA,NA,NA,NA
+"Negative","avg_score_Q25+avg_score_Q25:clusterUrban Hub - Local (Wellcome)","-6.547***",NA,NA,NA,NA,-6.547,"***",NA,NA,NA,NA
+"Negative","avg_score_Q26+avg_score_Q26:clusterUrban Hub - Local (Wellcome)","-7.544***",NA,NA,NA,NA,-7.544,"***",NA,NA,NA,NA
+"Negative","avg_score_Q28","-0.687***",NA,NA,NA,NA,-0.687,"***",NA,NA,NA,NA
+"Negative","avg_score_Q29","-0.761***",NA,NA,NA,NA,-0.761,"***",NA,NA,NA,NA
+"Negative","avg_score_Q30+avg_score_Q30:clusterResidential - High Income (Wellcome)","-3.105***",NA,NA,NA,NA,-3.105,"***",NA,NA,NA,NA
+"Negative","avg_score_Q1","-0.04***",NA,NA,NA,NA,NA,NA,-0.04,"***",NA,NA
+"Negative","avg_score_Q2+avg_score_Q2:clusterOffice - High Income (Upscale)","-19.785***",NA,NA,NA,NA,NA,NA,-19.785,"***",NA,NA
+"Negative","avg_score_Q2+avg_score_Q2:clusterResidential - High Income (Wellcome)","-0.026***",NA,NA,NA,NA,NA,NA,-0.026,"***",NA,NA
+"Negative","avg_score_Q2+avg_score_Q2:clusterUrban Hub - Local (Wellcome)","-0.215***",NA,NA,NA,NA,NA,NA,-0.215,"***",NA,NA
+"Negative","avg_score_Q3+avg_score_Q3:clusterOffice - Local (Wellcome)","-1.924***",NA,NA,NA,NA,NA,NA,-1.924,"***",NA,NA
+"Negative","avg_score_Q3+avg_score_Q3:clusterResidential - Western & Top Income (Upscale)","-8.679***",NA,NA,NA,NA,NA,NA,-8.679,"***",NA,NA
+"Negative","avg_score_Q3+avg_score_Q3:clusterUrban Hub - High Income (Upscale)","-9.188***",NA,NA,NA,NA,NA,NA,-9.188,"***",NA,NA
+"Negative","avg_score_Q3+avg_score_Q3:clusterUrban Hub - Local (Wellcome)","-0.092***",NA,NA,NA,NA,NA,NA,-0.092,"***",NA,NA
+"Negative","avg_score_Q4+avg_score_Q4:clusterResidential - High Income (Wellcome)","-0.111***",NA,NA,NA,NA,NA,NA,-0.111,"***",NA,NA
+"Negative","avg_score_Q5+avg_score_Q5:scaleUpscales","-0.989***",NA,NA,NA,NA,NA,NA,-0.989,"***",NA,NA
+"Negative","avg_score_Q6+avg_score_Q6:scaleUpscales","-1.098***",NA,NA,NA,NA,NA,NA,-1.098,"***",NA,NA
+"Negative","avg_score_Q6+avg_score_Q6:clusterUrban Hub - Local (Wellcome)","-0.14***",NA,NA,NA,NA,NA,NA,-0.14,"***",NA,NA
+"Negative","avg_score_Q7","-0.016***",NA,NA,NA,NA,NA,NA,-0.016,"***",NA,NA
+"Negative","avg_score_Q7+avg_score_Q7:scaleUpscales","-2.02***",NA,NA,NA,NA,NA,NA,-2.02,"***",NA,NA
+"Negative","avg_score_Q8+avg_score_Q8:clusterResidential - Western & Top Income (Upscale)","-1.936***",NA,NA,NA,NA,NA,NA,-1.936,"***",NA,NA
+"Negative","avg_score_Q9","-0.069***",NA,NA,NA,NA,NA,NA,-0.069,"***",NA,NA
+"Negative","avg_score_Q9+avg_score_Q9:clusterResidential - Western & Top Income (Upscale)","-3.118***",NA,NA,NA,NA,NA,NA,-3.118,"***",NA,NA
+"Negative","avg_score_Q10+avg_score_Q10:scaleUpscales","-0.708***",NA,NA,NA,NA,NA,NA,-0.708,"***",NA,NA
+"Negative","avg_score_Q11+avg_score_Q11:clusterResidential - Western & Top Income (Upscale)","-1.221***",NA,NA,NA,NA,NA,NA,-1.221,"***",NA,NA
+"Negative","avg_score_Q12+avg_score_Q12:clusterResidential - High Income (Wellcome)","-0.066***",NA,NA,NA,NA,NA,NA,-0.066,"***",NA,NA
+"Negative","avg_score_Q12+avg_score_Q12:clusterResidential - Western & Top Income (Upscale)","-2.701***",NA,NA,NA,NA,NA,NA,-2.701,"***",NA,NA
+"Negative","avg_score_Q15","-0.018***",NA,NA,NA,NA,NA,NA,-0.018,"***",NA,NA
+"Negative","avg_score_Q15+avg_score_Q15:clusterResidential - Western & Top Income (Upscale)","-1.34***",NA,NA,NA,NA,NA,NA,-1.34,"***",NA,NA
+"Negative","avg_score_Q16","-0.079***",NA,NA,NA,NA,NA,NA,-0.079,"***",NA,NA
+"Negative","avg_score_Q16+avg_score_Q16:scaleUpscales","-3.259***",NA,NA,NA,NA,NA,NA,-3.259,"***",NA,NA
+"Negative","avg_score_Q17+avg_score_Q17:clusterResidential - High Income (Wellcome)","-0.177***",NA,NA,NA,NA,NA,NA,-0.177,"***",NA,NA
+"Negative","avg_score_Q18+avg_score_Q18:clusterResidential - High Income (Wellcome)","-0.19***",NA,NA,NA,NA,NA,NA,-0.19,"***",NA,NA
+"Negative","avg_score_Q18+avg_score_Q18:clusterUrban Hub - Local (Wellcome)","-0.086***",NA,NA,NA,NA,NA,NA,-0.086,"***",NA,NA
+"Negative","avg_score_Q19+avg_score_Q19:scaleUpscales","-3.733***",NA,NA,NA,NA,NA,NA,-3.733,"***",NA,NA
+"Negative","avg_score_Q19+avg_score_Q19:clusterResidential - High Income (Wellcome)","-0.046***",NA,NA,NA,NA,NA,NA,-0.046,"***",NA,NA
+"Negative","avg_score_Q20","-0.021***",NA,NA,NA,NA,NA,NA,-0.021,"***",NA,NA
+"Negative","avg_score_Q20+avg_score_Q20:scaleUpscales","-1.972***",NA,NA,NA,NA,NA,NA,-1.972,"***",NA,NA
+"Negative","avg_score_Q20+avg_score_Q20:clusterUrban Hub - Local (Wellcome)","-0.305***",NA,NA,NA,NA,NA,NA,-0.305,"***",NA,NA
+"Negative","avg_score_Q21+avg_score_Q21:clusterResidential - Western & Top Income (Upscale)","-1.817***",NA,NA,NA,NA,NA,NA,-1.817,"***",NA,NA
+"Negative","avg_score_Q22+avg_score_Q22:scaleUpscales","-0.259***",NA,NA,NA,NA,NA,NA,-0.259,"***",NA,NA
+"Negative","avg_score_Q24","-0.027***",NA,NA,NA,NA,NA,NA,-0.027,"***",NA,NA
+"Negative","avg_score_Q26+avg_score_Q26:clusterUrban Hub - Local (Wellcome)","-0.292***",NA,NA,NA,NA,NA,NA,-0.292,"***",NA,NA
+"Negative","avg_score_Q28","-0.026***",NA,NA,NA,NA,NA,NA,-0.026,"***",NA,NA
+"Negative","avg_score_Q29","-0.042***",NA,NA,NA,NA,NA,NA,-0.042,"***",NA,NA
+"Negative","avg_score_Q1","-5.611***",NA,NA,NA,NA,NA,NA,NA,NA,-5.611,"***"
+"Negative","avg_score_Q2+avg_score_Q2:scaleUpscales","-572.881***",NA,NA,NA,NA,NA,NA,NA,NA,-572.881,"***"
+"Negative","avg_score_Q2+avg_score_Q2:clusterUrban Hub - Local (Wellcome)","-5.441***",NA,NA,NA,NA,NA,NA,NA,NA,-5.441,"***"
+"Negative","avg_score_Q3+avg_score_Q3:scaleUpscales","-293.313***",NA,NA,NA,NA,NA,NA,NA,NA,-293.313,"***"
+"Negative","avg_score_Q3+avg_score_Q3:clusterOffice - High Income (Upscale)","-1636.561***",NA,NA,NA,NA,NA,NA,NA,NA,-1636.561,"***"
+"Negative","avg_score_Q3+avg_score_Q3:clusterResidential - High Income (Wellcome)","-2.532***",NA,NA,NA,NA,NA,NA,NA,NA,-2.532,"***"
+"Negative","avg_score_Q4","-0.952***",NA,NA,NA,NA,NA,NA,NA,NA,-0.952,"***"
+"Negative","avg_score_Q4+avg_score_Q4:clusterResidential - High Income (Wellcome)","-9.556***",NA,NA,NA,NA,NA,NA,NA,NA,-9.556,"***"
+"Negative","avg_score_Q4+avg_score_Q4:clusterResidential - Western & Top Income (Upscale)","-801.277***",NA,NA,NA,NA,NA,NA,NA,NA,-801.277,"***"
+"Negative","avg_score_Q4+avg_score_Q4:clusterUrban Hub - High Income (Upscale)","-909.83***",NA,NA,NA,NA,NA,NA,NA,NA,-909.83,"***"
+"Negative","avg_score_Q5+avg_score_Q5:clusterResidential - Western & Top Income (Upscale)","-51.393***",NA,NA,NA,NA,NA,NA,NA,NA,-51.393,"***"
+"Negative","avg_score_Q6","-1.27***",NA,NA,NA,NA,NA,NA,NA,NA,-1.27,"***"
+"Negative","avg_score_Q8+avg_score_Q8:scaleUpscales","-88.428***",NA,NA,NA,NA,NA,NA,NA,NA,-88.428,"***"
+"Negative","avg_score_Q9+avg_score_Q9:scaleUpscales","-56.268***",NA,NA,NA,NA,NA,NA,NA,NA,-56.268,"***"
+"Negative","avg_score_Q9+avg_score_Q9:clusterResidential - High Income (Wellcome)","-5.312***",NA,NA,NA,NA,NA,NA,NA,NA,-5.312,"***"
+"Negative","avg_score_Q10+avg_score_Q10:clusterResidential - High Income (Wellcome)","-2.974***",NA,NA,NA,NA,NA,NA,NA,NA,-2.974,"***"
+"Negative","avg_score_Q10+avg_score_Q10:clusterResidential - Western & Top Income (Upscale)","-96.12***",NA,NA,NA,NA,NA,NA,NA,NA,-96.12,"***"
+"Negative","avg_score_Q11+avg_score_Q11:clusterResidential - Western & Top Income (Upscale)","-78.518***",NA,NA,NA,NA,NA,NA,NA,NA,-78.518,"***"
+"Negative","avg_score_Q12+avg_score_Q12:scaleUpscales","-97.717***",NA,NA,NA,NA,NA,NA,NA,NA,-97.717,"***"
+"Negative","avg_score_Q15+avg_score_Q15:scaleUpscales","-27.606***",NA,NA,NA,NA,NA,NA,NA,NA,-27.606,"***"
+"Negative","avg_score_Q16+avg_score_Q16:clusterResidential - Western & Top Income (Upscale)","-133.139***",NA,NA,NA,NA,NA,NA,NA,NA,-133.139,"***"
+"Negative","avg_score_Q17+avg_score_Q17:clusterResidential - High Income (Wellcome)","-5.665***",NA,NA,NA,NA,NA,NA,NA,NA,-5.665,"***"
+"Negative","avg_score_Q17+avg_score_Q17:clusterResidential - Western & Top Income (Upscale)","-79.672***",NA,NA,NA,NA,NA,NA,NA,NA,-79.672,"***"
+"Negative","avg_score_Q18+avg_score_Q18:scaleUpscales","-70.221***",NA,NA,NA,NA,NA,NA,NA,NA,-70.221,"***"
+"Negative","avg_score_Q19+avg_score_Q19:clusterResidential - Western & Top Income (Upscale)","-77.003***",NA,NA,NA,NA,NA,NA,NA,NA,-77.003,"***"
+"Negative","avg_score_Q19+avg_score_Q19:clusterUrban Hub - Local (Wellcome)","-6.672***",NA,NA,NA,NA,NA,NA,NA,NA,-6.672,"***"
+"Negative","avg_score_Q20+avg_score_Q20:clusterResidential - High Income (Wellcome)","-5.003***",NA,NA,NA,NA,NA,NA,NA,NA,-5.003,"***"
+"Negative","avg_score_Q20+avg_score_Q20:clusterResidential - Western & Top Income (Upscale)","-292.332***",NA,NA,NA,NA,NA,NA,NA,NA,-292.332,"***"
+"Negative","avg_score_Q20+avg_score_Q20:clusterUrban Hub - Local (Wellcome)","-5.517***",NA,NA,NA,NA,NA,NA,NA,NA,-5.517,"***"
+"Negative","avg_score_Q21","-2.681***",NA,NA,NA,NA,NA,NA,NA,NA,-2.681,"***"
+"Negative","avg_score_Q21+avg_score_Q21:scaleUpscales","-50.558***",NA,NA,NA,NA,NA,NA,NA,NA,-50.558,"***"
+"Negative","avg_score_Q22+avg_score_Q22:clusterResidential - High Income (Wellcome)","-4.26***",NA,NA,NA,NA,NA,NA,NA,NA,-4.26,"***"
+"Negative","avg_score_Q23+avg_score_Q23:clusterUrban Hub - Local (Wellcome)","-15.888***",NA,NA,NA,NA,NA,NA,NA,NA,-15.888,"***"
+"Negative","avg_score_Q24","-1.247***",NA,NA,NA,NA,NA,NA,NA,NA,-1.247,"***"
+"Negative","avg_score_Q25","-2.237***",NA,NA,NA,NA,NA,NA,NA,NA,-2.237,"***"
+"Negative","avg_score_Q26+avg_score_Q26:clusterUrban Hub - Local (Wellcome)","-18.997***",NA,NA,NA,NA,NA,NA,NA,NA,-18.997,"***"
+"Negative","avg_score_Q27+avg_score_Q27:clusterResidential - High Income (Wellcome)","-8.687***",NA,NA,NA,NA,NA,NA,NA,NA,-8.687,"***"
+"Negative","avg_score_Q27+avg_score_Q27:clusterUrban Hub - Local (Wellcome)","-19.492***",NA,NA,NA,NA,NA,NA,NA,NA,-19.492,"***"
+"Negative","avg_score_Q29+avg_score_Q29:clusterResidential - High Income (Wellcome)","-2.227***",NA,NA,NA,NA,NA,NA,NA,NA,-2.227,"***"
+"Negative","avg_score_Q29+avg_score_Q29:clusterUrban Hub - Local (Wellcome)","-11.365***",NA,NA,NA,NA,NA,NA,NA,NA,-11.365,"***"
+"Negative","avg_score_Q30+avg_score_Q30:clusterResidential - High Income (Wellcome)","-6.68***",NA,NA,NA,NA,NA,NA,NA,NA,-6.68,"***"

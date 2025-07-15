@@ -1,0 +1,25 @@
+
+Call:
+lm(formula = target ~ avg_score_Q10 + avg_score_Q17 + avg_score_Q18 + 
+    avg_score_Q22 + avg_score_Q24 + avg_score_Q29, data = data)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-10.8600  -2.2017   0.2577   2.1108  16.5511 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   -0.23833    1.54780  -0.154  0.87772    
+avg_score_Q10  0.05452    0.06961   0.783  0.43404    
+avg_score_Q17  0.10972    0.04925   2.228  0.02663 *  
+avg_score_Q18  0.14746    0.07213   2.044  0.04177 *  
+avg_score_Q22  0.08376    0.06455   1.298  0.19540    
+avg_score_Q24  0.17581    0.06115   2.875  0.00432 ** 
+avg_score_Q29  0.42513    0.05774   7.362 1.65e-12 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.865 on 309 degrees of freedom
+Multiple R-squared:  0.8727,	Adjusted R-squared:  0.8702 
+F-statistic:   353 on 6 and 309 DF,  p-value: < 2.2e-16
+

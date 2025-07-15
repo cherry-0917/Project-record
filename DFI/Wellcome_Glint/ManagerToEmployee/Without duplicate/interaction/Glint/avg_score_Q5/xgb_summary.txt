@@ -1,0 +1,51 @@
+##### xgb.Booster
+raw: 106 Kb 
+call:
+  xgboost::xgb.train(params = list(eta = param$eta, max_depth = param$max_depth, 
+    gamma = param$gamma, colsample_bytree = param$colsample_bytree, 
+    min_child_weight = param$min_child_weight, subsample = param$subsample), 
+    data = x, nrounds = param$nrounds, verbose = 0, objective = "reg:squarederror")
+params (as set within xgb.train):
+  eta = "0.1", max_depth = "3", gamma = "0", colsample_bytree = "0.8", min_child_weight = "1", subsample = "0.8", objective = "reg:squarederror", validate_parameters = "TRUE"
+xgb.attributes:
+  niter
+# of features: 22 
+niter: 100
+nfeatures : 22 
+xNames : avg_score_Q7 avg_score_Q8 avg_score_Q9 avg_score_Q10 avg_score_Q11 avg_score_Q12 avg_score_Q15 avg_score_Q16 avg_score_Q17 avg_score_Q18 avg_score_Q19 avg_score_Q20 avg_score_Q21 avg_score_Q22 avg_score_Q23 avg_score_Q24 avg_score_Q25 avg_score_Q26 avg_score_Q27 avg_score_Q28 avg_score_Q29 avg_score_Q30 
+problemType : Regression 
+tuneValue :
+	  nrounds max_depth eta gamma colsample_bytree min_child_weight subsample
+3     100         3 0.1     0              0.8                1       0.8
+obsLevels : NA 
+param :
+	$verbose
+[1] 0
+
+
+Feature Importance:
+xgbTree variable importance
+
+  only 20 most important variables shown (out of 22)
+
+              Overall
+avg_score_Q23 100.000
+avg_score_Q29  89.088
+avg_score_Q11  56.754
+avg_score_Q25  54.741
+avg_score_Q30  47.987
+avg_score_Q24  44.045
+avg_score_Q21  43.793
+avg_score_Q12  27.106
+avg_score_Q20  16.356
+avg_score_Q22  16.180
+avg_score_Q9    9.392
+avg_score_Q10   8.765
+avg_score_Q8    6.733
+avg_score_Q28   6.725
+avg_score_Q7    6.213
+avg_score_Q16   4.619
+avg_score_Q15   4.024
+avg_score_Q18   3.649
+avg_score_Q19   3.175
+avg_score_Q27   2.919

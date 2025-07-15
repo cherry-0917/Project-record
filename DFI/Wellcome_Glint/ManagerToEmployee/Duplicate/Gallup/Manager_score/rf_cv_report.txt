@@ -1,0 +1,20 @@
+10-Fold Cross-Validation Results (Overfitting Check):
+Random Forest 
+
+4507 samples
+   7 predictor
+
+No pre-processing
+Resampling: Cross-Validated (10 fold) 
+Summary of sample sizes: 4056, 4056, 4058, 4057, 4057, 4056, ... 
+Resampling results:
+
+  RMSE        Rsquared   MAE       
+  0.08107042  0.9999242  0.02926137
+
+Tuning parameter 'mtry' was held constant at a value of 2
+
+
+Cross-Validation Performance Metrics:
+  mtry       RMSE  Rsquared        MAE    RMSESD   RsquaredSD       MAESD
+1    2 0.08107042 0.9999242 0.02926137 0.0289932 5.980721e-05 0.005085688

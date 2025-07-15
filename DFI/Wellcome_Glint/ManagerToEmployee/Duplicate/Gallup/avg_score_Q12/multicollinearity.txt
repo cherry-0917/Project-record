@@ -1,0 +1,6 @@
+ avg_score_Q6 avg_score_Q11 avg_score_Q16 
+     6.006171      8.572480     10.031825 
+avg_score_Q22 avg_score_Q25 avg_score_Q27 
+     8.407883     11.067009      9.760357 
+avg_score_Q29 
+     8.520733 

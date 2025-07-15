@@ -1,0 +1,25 @@
+Baseline prediction (all averages): 67.40909 
+
+Predictions at maximum values:
+avg_score_Q7 : 67.40909 
+avg_score_Q8 : 67 
+avg_score_Q9 : 67.36364 
+avg_score_Q10 : 67.5 
+avg_score_Q11 : 68.72727 
+avg_score_Q12 : 67.40909 
+avg_score_Q15 : 67.27273 
+avg_score_Q16 : 67.5 
+avg_score_Q17 : 66.95455 
+avg_score_Q18 : 67.45455 
+avg_score_Q19 : 68.22727 
+avg_score_Q20 : 66.36364 
+avg_score_Q21 : 67.40909 
+avg_score_Q22 : 68.09091 
+avg_score_Q23 : 69.04545 
+avg_score_Q24 : 67.40909 
+avg_score_Q25 : 68.5 
+avg_score_Q26 : 67.13636 
+avg_score_Q27 : 67.72727 
+avg_score_Q28 : 66.63636 
+avg_score_Q29 : 67.68182 
+avg_score_Q30 : 67.31818 

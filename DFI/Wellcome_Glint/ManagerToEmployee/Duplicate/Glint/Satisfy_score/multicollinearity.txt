@@ -1,0 +1,10 @@
+ avg_score_Q7  avg_score_Q8  avg_score_Q9 avg_score_Q10 avg_score_Q11 
+     9.559018     10.154190     18.904574     15.333900     11.399835 
+avg_score_Q12 avg_score_Q15 avg_score_Q16 avg_score_Q17 avg_score_Q18 
+     8.435312     12.268463     14.595431     12.323286     17.657209 
+avg_score_Q19 avg_score_Q20 avg_score_Q21 avg_score_Q22 avg_score_Q23 
+    12.188212     11.777237     14.184934     10.153537     14.591939 
+avg_score_Q24 avg_score_Q25 avg_score_Q26 avg_score_Q27 avg_score_Q28 
+    11.410281     13.876353     13.657295     12.222676      9.189388 
+avg_score_Q29 avg_score_Q30 
+    11.129558     11.382303 

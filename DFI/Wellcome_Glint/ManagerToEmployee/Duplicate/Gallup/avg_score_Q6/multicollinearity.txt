@@ -1,0 +1,2 @@
+avg_score_Q10 avg_score_Q17 avg_score_Q18 avg_score_Q22 avg_score_Q24 avg_score_Q29 
+    10.840431      5.457853     12.359772      9.000785      8.792227      7.888011 

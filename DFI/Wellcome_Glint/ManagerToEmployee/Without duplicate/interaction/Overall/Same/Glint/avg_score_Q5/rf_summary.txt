@@ -1,0 +1,43 @@
+Random Forest Model Summary
+
+Call:
+ randomForest(formula = formula, data = train_data, ntree = 40,      mtry = max(floor(sqrt(length(variables)/3)), 1), importance = TRUE) 
+               Type of random forest: regression
+                     Number of trees: 40
+No. of variables tried at each split: 3
+
+          Mean of squared residuals: 22.22044
+                    % Var explained: 73.8
+
+Variable Importance:
+                 %IncMSE IncNodePurity
+avg_score_Q7   0.8293740     12.942165
+avg_score_Q8   1.8218051    220.270131
+avg_score_Q9   0.9024505      4.988546
+avg_score_Q10  1.1317652     70.409351
+avg_score_Q11  1.9953747    143.036367
+avg_score_Q12  1.7506743    116.813964
+avg_score_Q15  2.1247018    107.599345
+avg_score_Q16  1.6403526     43.065277
+avg_score_Q17  1.2084963    120.880007
+avg_score_Q18  0.1707794     34.821688
+avg_score_Q19  1.1729050     89.967114
+avg_score_Q20  1.8668833    228.999635
+avg_score_Q21  1.7103681    170.410629
+avg_score_Q22  0.9258116     42.061002
+avg_score_Q23  1.4258784     87.171467
+avg_score_Q24  1.6932733     67.061847
+avg_score_Q25  2.7027580    254.316301
+avg_score_Q26  0.7454242    136.708376
+avg_score_Q27 -0.8777138      5.746691
+avg_score_Q28  0.3816092     23.678542
+avg_score_Q29  1.7332971    109.464553
+avg_score_Q30  1.7932786     61.835171
+avg_score_Q31  0.4536721     22.223654
+avg_score_Q32  1.0990028    134.128583
+avg_score_Q33 -0.8295668     26.569331
+avg_score_Q34  1.4880623     30.404124
+avg_score_Q35  2.1169661    210.370398
+avg_score_Q36  1.3614856     60.284234
+avg_score_Q37  2.1759704    170.253219
+avg_score_Q38  0.8097907     14.680445
