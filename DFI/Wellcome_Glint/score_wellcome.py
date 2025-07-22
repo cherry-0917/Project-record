@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
-
+#import os
+#os.chdir("C:/Users/choyinch/Downloads")
 df = pd.read_csv(r".\train_wellcome.csv")
 df['Store'] = df['Store'].replace('R01-A02-Luckifast?? Building', 'R01-A02-Luckifast Building')
 
